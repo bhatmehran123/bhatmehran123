@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development , Mern Stack Developer**
 
-- 💬 Ask me about **Web Development, Mern Stack Developer**
+- 💬 Ask me about **Web Developmentr**
 
 - 📫 How to reach me **infomehran604@gmail.com**
 
